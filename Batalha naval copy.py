@@ -1,6 +1,7 @@
 #-*-coding: utf-8 -*-
 import re
 resultado=open('resultado.txt','w')
+
 def TABULEIRO():
     posicionamento = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'L', 'M', 'N', 'O', 'P']
     pos = []
